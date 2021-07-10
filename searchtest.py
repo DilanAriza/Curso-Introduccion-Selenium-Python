@@ -5,6 +5,7 @@ from termcolor import colored
 
 class HomePageTest(unittest.TestCase):
     
+    # Selectores con test
     def setUp(self):
         self.driver = webdriver.Firefox(executable_path = r"./geckodriver.exe")
         driver = self.driver
