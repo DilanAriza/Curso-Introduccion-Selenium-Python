@@ -710,3 +710,24 @@ JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1626195636114	geckodriver	INFO	Listening on 127.0.0.1:53864
+1626195637095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMDSwxc"
+1626195638333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMDSwxc\\search.json.mozlz4", (void 0)))
+1626195643114	Marionette	INFO	Listening on port 53872
+1626195643160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626195646389	Marionette	INFO	Stopped listening on port 53872
+[Child 13584, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626195788117	geckodriver	INFO	Listening on 127.0.0.1:53530
+1626195789130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile52vsyG"
+1626195789763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile52vsyG\\search.json.mozlz4", (void 0)))
+1626195792755	Marionette	INFO	Listening on port 59211
+1626195792852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626195808750	Marionette	INFO	Stopped listening on port 59211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
